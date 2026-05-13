@@ -26,6 +26,6 @@ Um sisteminha de estoque que eu fiz em Python pra treinar.
 
 1.0 - ainda vou adicionar mais coisas
 
-## Autor
+## Autor (☞ﾟヮﾟ)☞
 
 Alexandre Persi
