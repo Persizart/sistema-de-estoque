@@ -5,8 +5,8 @@ Autor: Alexandre Persi
 Descrição: Sistema para cadastrar, remover e visualizar produtos no estoque.
 """
 
-print("=== Persi stock ===")
-print(" Bem vindo ao Persi Stock!")
+print(" Persi stock ")
+print(" Bem vindo ao Persi Stock! ")
 
 produtos = []
 
